@@ -29,6 +29,7 @@ public abstract class Item {
     private List<Category> categories = new ArrayList<>();
 
     //==Business Login==//
+
     /**
      * increase stock
      */
